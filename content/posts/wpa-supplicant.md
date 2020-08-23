@@ -1,5 +1,6 @@
 ---
 title: "How to connect to the internet with wpa supplicant"
+subtitle: "Teste"
 date: 2018-06-05T22:19:42-03:00
 tags: [linux]
 draft: false
@@ -97,3 +98,4 @@ If you are using [Runit](https://wiki.voidlinux.eu/Runit) as an init system:
     # ln -s /etc/sv/dhcpcd /var/service/
 
 You can have as much networks in the file as you want, when you get close to one of them, it will connect automatically.
+
